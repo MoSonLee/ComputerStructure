@@ -14,5 +14,5 @@
 </br>
 
 ## 5장
-[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/5)
+[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/4#issuecomment-949433833)
 </br>
