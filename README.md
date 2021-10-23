@@ -26,4 +26,9 @@
 </br>
 
 
+## 8장
+[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/7#issue-1034110594)
+</br>
+
+
 
