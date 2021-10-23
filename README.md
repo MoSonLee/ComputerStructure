@@ -20,3 +20,10 @@
 ## 6장
 [바로가기](https://github.com/MoSonLee/ComputerStructure/issues/5#issue-1033459957)
 </br>
+
+## 7장
+[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/6#issue-1034068712)
+</br>
+
+
+
