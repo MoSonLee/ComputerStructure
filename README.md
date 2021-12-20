@@ -43,5 +43,5 @@
 </br>
 
 ## 18장
-[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/10#issue-1084594938)
+[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/11#issue-1084597381)
 </br>
