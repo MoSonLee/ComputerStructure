@@ -39,7 +39,7 @@
 </br>
 
 ## 16장
-[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/10#issue-1084594938)
+[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/9#issue-1084594884)
 </br>
 
 ## 18장
