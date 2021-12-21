@@ -45,3 +45,11 @@
 ## 18장
 [바로가기](https://github.com/MoSonLee/ComputerStructure/issues/11#issue-1084597381)
 </br>
+
+## 19장
+[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/11#issue-1084597381)
+</br>
+
+## 20장
+[바로가기](https://github.com/MoSonLee/ComputerStructure/issues/11#issue-1084597381)
+</br>
